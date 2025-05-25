@@ -5,7 +5,8 @@ This project focuses on building a comprehensive Road Accident Analysis Dashboar
 Client Requirement
 The client required an interactive Excel dashboard to analyze and visualize road accident data from 2021 and 2022, with a focus on both high-level KPIs and detailed breakdowns. The objective was to enable data-driven decision-making by highlighting accident trends, severity, vehicle types, and environmental factors.
 
-Key Features of the Dashboard
+Key Features of the Dashboard:
+
 🔹 Primary KPIs
 Total Casualties resulting from accidents
 Casualties by Accident Severity
