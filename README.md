@@ -57,3 +57,5 @@ Patterns across time and location
 Severity-wise and type-wise casualty impact
 
 This helps stakeholders make informed decisions to improve road safety and prioritize preventive measures.
+
+Thank you for visiting!
